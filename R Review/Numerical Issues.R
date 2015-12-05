@@ -4,7 +4,7 @@
 #
 ######################################
 
-# Fist we look at some computations
+# First we look at some computations
 
 
 sqrt(-3)
