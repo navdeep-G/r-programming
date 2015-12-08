@@ -14,6 +14,8 @@ is.palindrome <- function(n)
 {
     n[1] == get.digits(n[1])
 }
+
+#Quick test
 is.palindrome(123)
 is.palindrome(121)
   
