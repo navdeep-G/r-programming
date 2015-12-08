@@ -1,5 +1,5 @@
 #This function will take a vector x and return a vector of all the odd numbers from that 
-#said vector,x.
+#said vector x.
 
 oddcount <- function(x)
 {#Start function
