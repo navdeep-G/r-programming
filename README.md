@@ -1,6 +1,9 @@
 # R-Programming
 
-The purpose of this repo is to show some programming exercises I have done in R. Most of these exercises are typical programming ones many would expect along with some unique
-to R. 
+A set of R code I have personally written over the years.  
 
-Also, I have included a folder titled "R Review" that goes over R as a language. 
+#Organization of Repo
+
+  - R Programs: Contains programs I have written in R.
+  - R Review: An overview of R as a language I put together (Note: I would not say this repo is not complete, but it does                  cover a decent amount. I try to add to this repo as much as possible).
+
