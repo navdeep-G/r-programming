@@ -1,6 +1,6 @@
 # R-Programming
 
-A set of R code I have personally written over the years.  
+![R](R.jpeg)
 
 #Organization of Repo
 
