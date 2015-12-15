@@ -1,4 +1,3 @@
-#Navdeep Gill
 #This will take in a number and split it into its respective
 #single digit numbers. For example, 12345 would become a vector
 #of 1,2,3,4,5
