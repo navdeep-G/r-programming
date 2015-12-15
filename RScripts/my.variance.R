@@ -1,4 +1,3 @@
-#2
 #Given a numeric vector x, calculate the sample variance using a loop. 
 my.variance <- function(x)
 {
