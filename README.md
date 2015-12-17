@@ -9,6 +9,6 @@
 #Organization of Repo
 
   - RScripts: Contains programs I have written in R.
-  - RReview: An overview of the R language
+  - RReview: An overview of the R language.
   - DataMunging: Scripts I have written to handle data for munging/cleansing.
 
