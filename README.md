@@ -2,6 +2,10 @@
 
 ![R](R.jpeg)
 
+#Overview of Repo
+  - This repo contains scripts about R as a language. 
+  - Each topic of R programming is broken up into folder.
+  
 #Organization of Repo
 
   - RScripts: Contains programs I have written in R.
