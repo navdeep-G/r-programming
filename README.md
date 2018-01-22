@@ -3,7 +3,7 @@
 ![R](R.jpeg)
 
 # Overview of Repo
-  - This repo contains scripts about R as a language ("native" R and use of R with packages). 
+  - This repo contains scripts about R as a language. 
   - Each topic of R programming is broken up into a folder.
   
 # Organization of Repo
